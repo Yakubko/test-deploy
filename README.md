@@ -1,6 +1,6 @@
-# empty-ts-express
+# test-deploy
 
 Empty ts express app
 
-[![Build Status](https://travis-ci.com/Yakubko/empty-ts-express.svg?branch=master)](https://travis-ci.com/Yakubko/empty-ts-express)
-[![Coverage Status](https://coveralls.io/repos/github/Yakubko/empty-ts-express/badge.svg?branch=master)](https://coveralls.io/github/Yakubko/empty-ts-express?branch=master)
+[![Build Status](https://travis-ci.com/Yakubko/test-deploy.svg?branch=master)](https://travis-ci.com/Yakubko/test-deploy)
+[![Coverage Status](https://coveralls.io/repos/github/Yakubko/test-deploy/badge.svg?branch=master)](https://coveralls.io/github/Yakubko/test-deploy?branch=master)
